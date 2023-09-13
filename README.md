@@ -42,6 +42,9 @@ Projeyi yerel makinenize klonlayarak veya indirerek çalıştırabilirsiniz. Aş
 
 Bu proje açık kaynaklıdır ve katkılara her zaman açıktır. Herhangi bir hata bulursanız veya geliştirmeye katkıda bulunmak isterseniz, lütfen bir pull isteği gönderin veya bir sorun açın.
 
-<img width="926" alt="image" src="https://github.com/esmanur-karatas/ToDoList.Web/assets/83882274/69372582-74bc-4f9e-a942-ee0ccfbddeb5">
+
 
 <img width="948" alt="image" src="https://github.com/esmanur-karatas/ToDoList.Web/assets/83882274/911b8503-29da-4214-b0f2-75e293d9b568">
+
+
+<img width="926" alt="image" src="https://github.com/esmanur-karatas/ToDoList.Web/assets/83882274/69372582-74bc-4f9e-a942-ee0ccfbddeb5">
